@@ -3,7 +3,7 @@ import React from 'react';
 const Shapes = () => {
   return (
     <div className="shapes">
-        <svg
+      <svg
         width="27"
         height="29"
         class="shape s1"
